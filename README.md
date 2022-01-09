@@ -46,6 +46,3 @@ Users should be able to:
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/llalanmendozall)
 - Twitter - [@yourusername](https://www.twitter.com/JohanAlan05)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
